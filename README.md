@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kienguyen2721
-- 👀 I’m interested in basketball,
+- 👀 I’m interested in basketball,manga
 - 🌱 I’m currently learning swift
 - 📫 How to reach me: ID 100010432980131
 
